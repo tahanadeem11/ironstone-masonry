@@ -1952,7 +1952,7 @@
     }
 
     .specialities-con .col-lg-6.col-md-12.col-sm-12.col-12.order-lg-2.order-3 {
-        display: none;
+        margin-bottom: 30px;
     }
 
     .specialities-con .specialities_box_outer {
@@ -2159,11 +2159,15 @@
 
     .about-con .about_wrapper .about-image1 img {
         width: 380px;
+        height: 420px;
     }
 
     .about-con .about_wrapper .video-image {
-        top: 240px;
-        left: 110px;
+        top: auto;
+        left: auto;
+        bottom: -24px;
+        right: -16px;
+        width: 270px;
     }
 
     .about-con .about_wrapper .about-image2 img {
@@ -3110,11 +3114,15 @@
 
     .about-con .about_wrapper .about-image1 img {
         width: 330px;
+        height: 360px;
     }
 
     .about-con .about_wrapper .video-image {
-        top: 246px;
-        left: -40px;
+        top: auto;
+        left: auto;
+        bottom: -20px;
+        right: -10px;
+        width: 195px;
     }
 
     .about-con .about_wrapper .about-image2 {
@@ -4120,11 +4128,15 @@
 
     .about-con .about_wrapper .about-image1 img {
         width: 250px;
+        height: 280px;
     }
 
     .about-con .about_wrapper .video-image {
-        top: 154px;
-        left: -28px;
+        top: auto;
+        left: auto;
+        bottom: -16px;
+        right: -8px;
+        width: 190px;
     }
 
     .about-con .about_wrapper .about-image2 img {
