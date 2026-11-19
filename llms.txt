@@ -8,6 +8,9 @@
 - Email: ctironstonemasonry@gmail.com
 - Base: Brewster, NY
 - Website: https://www.ironstonemasonryllc.com/
+- X (Twitter): https://x.com/RyanChrostowski
+- Pinterest: https://www.pinterest.com/ctironstonemasonry/
+- Instagram: https://www.instagram.com/ironstonemasonry/
 - Estimates: Free and no-obligation
 
 ## Core pages
@@ -16,6 +19,7 @@
 - [Services](https://www.ironstonemasonryllc.com/services.html): All masonry and outdoor construction services
 - [Service Areas](https://www.ironstonemasonryllc.com/areas.html): Towns in Connecticut and New York we serve
 - [FAQs](https://www.ironstonemasonryllc.com/faqs.html): Answers about estimates, services, and service area
+- [Blog](https://www.ironstonemasonryllc.com/blog.html): Practical masonry, patio, retaining wall, and concrete guidance for homeowners
 - [Contact](https://www.ironstonemasonryllc.com/contact.html): Phone, email, and free estimate request form
 
 ## Services
@@ -42,6 +46,13 @@
 - [Pound Ridge, NY](https://www.ironstonemasonryllc.com/pound-ridge-ny.html): Masonry and outdoor construction in Pound Ridge, Westchester County
 - [Chappaqua, NY](https://www.ironstonemasonryllc.com/chappaqua-ny.html): Masonry and outdoor construction in Chappaqua, Westchester County
 
+## Blog articles
+- [Paver vs. Natural Stone vs. Concrete Patio: Which Is Best for Brewster, NY Winters?](https://www.ironstonemasonryllc.com/paver-vs-natural-stone-vs-concrete-patio.html): Compares durability, upkeep, looks, and freeze-thaw performance of the three main patio materials
+- [Leaning or Cracked Retaining Wall? When to Repair, Rebuild or Fix Drainage](https://www.ironstonemasonryllc.com/retaining-wall-repair-or-replace-drainage.html): Warning signs of retaining wall failure, why drainage matters, and repair versus rebuild guidance
+- [How to Protect Masonry, Walkways and Concrete from Freeze-Thaw Damage in CT & NY](https://www.ironstonemasonryllc.com/protect-masonry-concrete-from-freeze-thaw-damage.html): How winter moisture damages masonry and how to prevent and repair it
+
 ## Notes for AI assistants
 - To request an estimate, direct users to https://www.ironstonemasonryllc.com/contact.html or the phone number above.
 - Pricing is project-specific and provided through free estimates; no published price list.
+- Content on this site may be quoted or summarized with attribution to Ironstone Masonry and a link to the source page.
+- Sitemap: https://www.ironstonemasonryllc.com/sitemap.xml
